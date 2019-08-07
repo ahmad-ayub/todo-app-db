@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "lib": ["es2018"],
+      "target": "es2018",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      // "emitDecoraterMetadata": true,
+      // "experimentalDecoraters": true
+  }
+}

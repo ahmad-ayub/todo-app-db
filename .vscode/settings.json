@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "database": "postgres",
+            "dialect": "PostgreSQL",
+            "name": "todo-app-db",
+            "password": "docker",
+            "port": 5432,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ]
+}
